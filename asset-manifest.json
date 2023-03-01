@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/NEKSHAN_KUMAR_PORTFOLIO/static/css/main.ee16d4b1.css",
-    "main.js": "/NEKSHAN_KUMAR_PORTFOLIO/static/js/main.22c6e12c.js",
-    "static/media/Nekshan_Kumar_Resume.pdf": "/NEKSHAN_KUMAR_PORTFOLIO/static/media/Nekshan_Kumar_Resume.557a3b4baef6c066afa9.pdf",
+    "main.js": "/NEKSHAN_KUMAR_PORTFOLIO/static/js/main.7c18ddd1.js",
     "static/media/IMG2.png": "/NEKSHAN_KUMAR_PORTFOLIO/static/media/IMG2.e41954a2f87f4240d89f.png",
     "static/media/niks2.png": "/NEKSHAN_KUMAR_PORTFOLIO/static/media/niks2.558b4e001235cba4c5d6.png",
+    "static/media/Nekshan_Kumar_Resume.pdf": "/NEKSHAN_KUMAR_PORTFOLIO/static/media/Nekshan_Kumar_Resume.20cd23425470e43a72c6.pdf",
     "static/media/niks.jpeg": "/NEKSHAN_KUMAR_PORTFOLIO/static/media/niks.0c9441793b6bd3145fd1.jpeg",
     "static/media/portfolio1.jpeg": "/NEKSHAN_KUMAR_PORTFOLIO/static/media/portfolio1.07715d04f67e91f4ab69.jpeg",
     "index.html": "/NEKSHAN_KUMAR_PORTFOLIO/index.html",
     "main.ee16d4b1.css.map": "/NEKSHAN_KUMAR_PORTFOLIO/static/css/main.ee16d4b1.css.map",
-    "main.22c6e12c.js.map": "/NEKSHAN_KUMAR_PORTFOLIO/static/js/main.22c6e12c.js.map"
+    "main.7c18ddd1.js.map": "/NEKSHAN_KUMAR_PORTFOLIO/static/js/main.7c18ddd1.js.map"
   },
   "entrypoints": [
     "static/css/main.ee16d4b1.css",
-    "static/js/main.22c6e12c.js"
+    "static/js/main.7c18ddd1.js"
   ]
 }
