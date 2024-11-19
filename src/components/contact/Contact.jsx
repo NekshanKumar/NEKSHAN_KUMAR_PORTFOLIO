@@ -25,8 +25,8 @@ const sendEmail = (e) => {
       <article className="contact_option">
       <MdOutlineEmail className="contact_option-icon"/>
          <h4>Email</h4>
-         <h5>vk5983451@gmail.com</h5>
-         <a href="mailto:vk5983451@gmail.com" target="_blank"> Send The Message</a>
+         <h5>nekshan.kumar7@gmail.com</h5>
+         <a href="mailto:nekshan.kumar7@gmail.com" target="_blank"> Send The Message</a>
       </article>
 
       <article className="contact_option">
@@ -39,8 +39,8 @@ const sendEmail = (e) => {
       <article className="contact_option">
       <BsWhatsapp className="contact_option-icon"/>
          <h4>WhatsApp</h4>
-         <h5>+919103250861</h5>
-         <a href="https://api.whatsapp.com/send?phone=+9103250861" target="_blank"> Send The Message</a>
+         <h5>+916005086942</h5>
+         <a href="https://api.whatsapp.com/send?phone=+916005086942" target="_blank"> Send The Message</a>
       </article>
     </div>
       {/*---END OF CONTACT OPTIONS----*/}
